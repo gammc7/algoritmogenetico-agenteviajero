@@ -1,6 +1,4 @@
-# algoritmogenetico-agenteviajero
-
-Algoritmo genético
+# Algoritmo genético
 
 Implementación en Python del problema del agente viajero con un algoritmo genético. 
 
